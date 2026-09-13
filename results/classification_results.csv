@@ -1,0 +1,51 @@
+text,predicted_label,confidence
+I've had a headache for 3 days and my vision is blurry,medical,1.0000
+whats the best pizza topping combo,non_medical,0.9998
+"my chest hurts when i breathe in deeply, should i worry",medical,1.0000
+how do i reset my wifi router,non_medical,0.5224
+"took 2 tylenol but fever wont go down, is that normal",medical,1.0000
+recommend me a good sci fi movie for tonight,non_medical,1.0000
+kid has a rash all over their arms since yesterday,medical,1.0000
+how to parallel park a car,non_medical,1.0000
+is it bad if my ankle is swollen after a run,medical,1.0000
+best budget laptop for college students,non_medical,1.0000
+why do i feel dizzy every time i stand up,medical,1.0000
+how long does it take to learn guitar,medical,0.9997
+"my throat has been sore for a week, should i see a doctor",medical,1.0000
+what time zone is tokyo in,non_medical,0.9872
+can allergies cause a persistent cough,medical,1.0000
+how to fix a leaky faucet,medical,0.9680
+i keep getting nosebleeds out of nowhere,medical,1.0000
+what's a good gift for a 10 year old,medical,0.9981
+is it normal to have chest tightness after exercise,medical,1.0000
+how do i unsubscribe from an email list,non_medical,0.7052
+"my hands go numb when i sleep, is that concerning",medical,1.0000
+what's the capital of australia,non_medical,0.9937
+should i be worried about a mole that changed shape,medical,1.0000
+how to train a puppy not to bite,non_medical,0.7648
+"i've had diarrhea for 2 days, should i take something",medical,1.0000
+best hiking trails near me,non_medical,1.0000
+why does my back hurt more in the mornings,medical,1.0000
+how to change a flat tire,non_medical,0.5024
+is it safe to mix ibuprofen and alcohol,medical,1.0000
+what's a good workout split for beginners,medical,0.9999
+my eye has been twitching for hours,medical,1.0000
+how to make cold brew coffee at home,non_medical,0.9949
+having trouble breathing after climbing stairs lately,medical,0.9998
+what's the difference between a virus and bacteria,medical,1.0000
+how to write a resume with no experience,non_medical,0.9982
+"i have a lump behind my ear, should i get it checked",medical,1.0000
+best books to read this summer,non_medical,0.9933
+why am i always tired even after 8 hours of sleep,medical,1.0000
+how to remove a stripped screw,medical,0.9269
+"my baby has a fever of 101, what should i do",medical,1.0000
+how to invest in index funds,non_medical,0.9999
+is it normal for my heart to race after coffee,medical,1.0000
+what's the best way to learn spanish,medical,0.9975
+i've had a metallic taste in my mouth for days,medical,1.0000
+how to potty train a cat,non_medical,0.9881
+should i worry about occasional heart palpitations,medical,1.0000
+best podcasts about true crime,non_medical,1.0000
+why does my knee click when i squat,medical,1.0000
+how to set up a home network,non_medical,0.9999
+"i have blood in my urine, is that serious",medical,1.0000
